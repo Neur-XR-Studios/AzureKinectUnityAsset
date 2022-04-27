@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VfxPointCloudDemo.unity
+    guid: 523b4192f5644f84b8164e19e8be58e1
+  - enabled: 1
+    path: Assets/VfxPointCloudDemo 1.unity
+    guid: e98da0f0dcd0ecb4f840710919bc9b85
+  - enabled: 1
+    path: Assets/VfxPointCloudDemo 2.unity
+    guid: 8720efd3086552141b6775a8c32e106c
   m_configObjects: {}
